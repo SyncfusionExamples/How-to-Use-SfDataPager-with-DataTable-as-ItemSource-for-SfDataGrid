@@ -40,11 +40,11 @@ namespace SfDatagridDemo
             // sfDataGrid1
             // 
             this.sfDataGrid1.AccessibleName = "Table";
-            this.sfDataGrid1.Location = new System.Drawing.Point(0, 0);
+            this.sfDataGrid1.AutoSizeColumnsMode = Syncfusion.WinForms.DataGrid.Enums.AutoSizeColumnsMode.AllCells;
+            this.sfDataGrid1.Location = new System.Drawing.Point(12, 12);
             this.sfDataGrid1.Name = "sfDataGrid1";
             this.sfDataGrid1.PreviewRowHeight = 42;
-            this.sfDataGrid1.AutoSizeColumnsMode = Syncfusion.WinForms.DataGrid.Enums.AutoSizeColumnsMode.AllCells;
-            this.sfDataGrid1.Size = new System.Drawing.Size(1165, 600);
+            this.sfDataGrid1.Size = new System.Drawing.Size(1001, 500);
             this.sfDataGrid1.TabIndex = 0;
             this.sfDataGrid1.Text = "sfDataGrid1";
             // 
@@ -52,7 +52,7 @@ namespace SfDatagridDemo
             // 
             this.sfDataPager1.AccessibleName = "DataPager";
             this.sfDataPager1.CanOverrideStyle = true;
-            this.sfDataPager1.Location = new System.Drawing.Point(10, 650);
+            this.sfDataPager1.Location = new System.Drawing.Point(12, 524);
             this.sfDataPager1.Name = "sfDataPager1";
             this.sfDataPager1.Size = new System.Drawing.Size(600, 54);
             this.sfDataPager1.TabIndex = 2;

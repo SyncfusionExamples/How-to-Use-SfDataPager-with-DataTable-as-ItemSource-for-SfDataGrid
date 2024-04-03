@@ -64,6 +64,6 @@ public DataTable DataTableCollection
 
 **Image Reference:**
     
- ![DataPager_Image.png](https://support.syncfusion.com/kb/agent/attachment/article/15655/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwNDM3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.INqSoT0Bdi72yTLjCloSQsrPGc-_oycVDMfLX6oIcms)
+  ![DataPager_Image.png](https://support.syncfusion.com/kb/agent/attachment/article/15655/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjIwNjc3Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.k2ExhaJ4xQdYsMIo1gj_ch1tzw5cTEiyTFGe7CaZBc0)
 
 Take a moment to peruse the   [Winforms DataGrid - Paging  Documentation](https://help.syncfusion.com/windowsforms/datagrid/paging) documentation, to learn more about Paging with examples.
